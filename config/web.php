@@ -55,6 +55,7 @@ $config = [
         
     ],
     'params' => $params,
+    'timeZone' => 'Asia/Colombo', 
 ];
 
 if (YII_ENV_DEV) {
